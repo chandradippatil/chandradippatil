@@ -15,7 +15,7 @@
 Developed an **Insurance Analytics Dashboard** using **SQL & Power BI** to track **Cross Sell, New Business, and Renewal KPIs**.
 
 <p align="center">
-  <img src="insurance_dashboard.png" alt="Insurance.png" width="700"/>
+  <img src="Insurance.png" alt="Insurance Dashboard" width="700"/>
 </p>
 
 🔹 **Key Features:**  
