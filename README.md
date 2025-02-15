@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 - ✅ **Designed SQL queries** for KPI tracking.  
 - ✅ **Developed Power BI dashboards** with **DAX measures** for dynamic reporting.  
 - ✅ **Performed data cleaning & transformation** for accurate insights.  
-- 🚀 [View Project](#) | [SQL Queries](#) | [Dashboard](Screenshot 2025-02-14 203313)  
+- 🚀 [View Project](#) | [SQL Queries](#) | [Dashboard](Screenshot 2025-02-14 203313.png)  
 
 ### 📊 **Customer Segmentation for E-Commerce**  
 📌 *Performed customer segmentation using clustering techniques to improve marketing campaigns.*  
