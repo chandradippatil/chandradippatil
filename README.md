@@ -21,10 +21,11 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 - ✅ **Performed data cleaning & transformation** for accurate insights.  
 - 🚀 [View Project](insurance_analysis) | [Dashboard](Insurance.png)  
 
-### 📊 **Customer Segmentation for E-Commerce**  
-📌 *Performed customer segmentation using clustering techniques to improve marketing campaigns.*  
-- ✅ **Used SQL & Python (Pandas, Scikit-learn) for data analysis**.  
-- ✅ **Created a Power BI dashboard** for customer insights.  
+### 📊 **Human Resource Dashboard**  
+📌 *Designed an interactive HR analytics dashboard in Tableau to track key HR metrics such as employee headcount, attrition rate, salary distribution, and performance trends.*  
+- ✅ **Cleaned and transformed HR data for effective visual storytelling and decision-making.**.  
+- ✅ **Created dynamic filters, parameters, and actions to enhance user experience.**.
+- ✅ **Developed insights on attrition trends, hiring patterns, and workforce diversity for HR leadership.**.
 - 🚀 [View Project](#)  
 
 ---
