@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 ---
 
 ## 📫 Let's Connect!  
-📩 **Email:** [YourEmail@example.com]  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-🌎 **Portfolio:** [yourportfolio.com](#)  
+📩 **Email:** [patilchandradip1300@gmail.com]  
+🔗 **LinkedIn:** [www.linkedin.com/in/chandradippatil]
+ 
 
 ---
 
