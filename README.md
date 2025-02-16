@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 - ✅ **Cleaned and transformed HR data for effective visual storytelling and decision-making.**.  
 - ✅ **Created dynamic filters, parameters, and actions to enhance user experience.**.
 - ✅ **Developed insights on attrition trends, hiring patterns, and workforce diversity for HR leadership.**.
-- 🚀 [View Project](Human_Resources) | [Dashboard](HR Dashboard.png)
+- 🚀 [View Project](Human_Resources) | [Dashboard](HR_Dashboard.png)
 
 ---
 
