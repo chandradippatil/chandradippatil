@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 - ✅ **Developed insights on attrition trends, hiring patterns, and workforce diversity for HR leadership.**.
 - 🚀 [View Project](Human_Resources) | [Dashboard](HR_Dashboard.png)
 
-### 📊 **Blinkit Sales Analysis(Excel)**  
+### 📊 **Blinkit Sales Analysis (Excel)**  
 📌 *Conducted a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using various KPIs and visualizations..*  
 - ✅ **Analyzed total sales, average sales, item count, and customer ratings.**.  
 - ✅ **Created interactive dashboards in Excel & Power BI for trend insights.**.
