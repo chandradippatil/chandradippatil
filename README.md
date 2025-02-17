@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 - ✅ **Created interactive dashboards in Excel & Power BI for trend insights.**.
 - ✅ **Designed donut, bar, stacked column, and line charts for KPI visualization.**.
 - ✅ **Evaluated sales impact based on fat content, item types, and outlet establishment year.**.
-- 🚀 [View Project](Blinkit_Dashboard.xlsx) | [Dashboard](HR_Dashboard.png)
+- 🚀 [View Project](Blinkit_Dashboard.xlsx) | [Dashboard](Blinkit_Dashboard.png)
 
 
 ---
