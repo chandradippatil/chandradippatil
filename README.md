@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
+[<h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
 <h3 align="center">🚀 Data Analyst | SQL | Power BI | Tableau | Python | Excel</h3>
 
 Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate about extracting insights from data and building impactful dashboards.  
@@ -55,3 +55,4 @@ Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate ab
 ---
 
 **📌 Feel free to explore my repositories and reach out for collaborations! 🚀**  
+](https://github.com/chandradippatil/chandradippatil)
