@@ -52,10 +52,6 @@
 - Improved forecasting accuracy by 20% and reduced reporting time  
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Blinkit_Sales_Analysis)
 
-#### 📌 Tata Data Visualization Simulation *(Forage)*  
-- Completed simulation with TCS on visualizing business insights  
-- Prepared leadership questions and created actionable reports  
-
 #### 📌 Hospital Emergency Room Analysis *(Power BI)*  
 - Used DAX and SQL to monitor wait times and patient volume  
 - Reduced manual reporting by 40% and wait times by 30%  
@@ -70,6 +66,10 @@
 - Built HR analytics dashboards using Tableau, SQL, and Excel  
 - Enabled predictive analysis and reduced reporting effort by 10+ hours/month  
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Human-Resource-Analysis)
+
+#### 📌 Tata Data Visualization Simulation *(Forage)*  
+- Completed simulation with TCS on visualizing business insights  
+- Prepared leadership questions and created actionable reports 
 
 ---
 
