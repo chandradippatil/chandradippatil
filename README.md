@@ -16,7 +16,7 @@
 ### 💼 Work Experience
 
 **Data Analyst Intern – AI Variant, Pune**  
-📅 *March 2024 – March 2025*  
+📅 *April 2024 – April 2025*  
 
 **Project 1: Insurance Analytics**  
 - Built Power BI dashboards to track KPIs like cross-sell, new business & renewals  
