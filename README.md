@@ -1,58 +1,95 @@
-[<h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
-<h3 align="center">🚀 Data Analyst | SQL | Power BI | Tableau | Python | Excel</h3>
-
-Welcome to my GitHub profile! I'm a **data-driven problem solver** passionate about extracting insights from data and building impactful dashboards.  
-
----
-## 🔹 About Me  
-- 📊 **Data Analyst** with hands-on experience in **SQL, Power BI, Tableau, Excel, and Python**.  
-- 🏢 Completed an **internship at AI Variant**, working on **Insurance Analysis** using **SQL & Power BI**.  
-- 🔍 Passionate about **data visualization, KPI tracking, and business intelligence**.  
-- 📚 Constantly learning **advanced SQL, DAX, and Python for data analysis**.  
+<h1 align="center">👋 Hi, I'm Chandradip Patil</h1>
+<h3 align="center">💼 Data Analyst | SQL | Power BI | Python | Tableau | Excel</h3>
 
 ---
 
-## 📌 Featured Projects  
+### 📌 About Me
 
-### 📊 **Insurance Analytics (SQL + Power BI)**  
-📌 *Analyzed insurance sales data to track Cross Sell, New Business, and Renewal KPIs.*  
-- ✅ **Designed SQL queries** for KPI tracking.  
-- ✅ **Developed Power BI dashboards** with **DAX measures** for dynamic reporting.  
-- ✅ **Performed data cleaning & transformation** for accurate insights.  
-- 🚀 [View Project](insurance_analysis) | [Dashboard](Insurance.png)  
+🎓 Data Analyst with 1+ year of hands-on experience in:
+- SQL, Power BI, Tableau, Excel, and Python  
+- KPI Analysis, Dashboarding, Data Cleaning, and Business Intelligence
 
-### 📊 **Human Resource Dashboard (Tableau)**  
-📌 *Designed an interactive HR analytics dashboard in Tableau to track key HR metrics such as employee headcount, attrition rate, salary distribution, and performance trends.*  
-- ✅ **Cleaned and transformed HR data for effective visual storytelling and decision-making.**.  
-- ✅ **Created dynamic filters, parameters, and actions to enhance user experience.**.
-- ✅ **Developed insights on attrition trends, hiring patterns, and workforce diversity for HR leadership.**.
-- 🚀 [View Project](Human_Resources) | [Dashboard](HR_Dashboard.png)
-
-### 📊 **Blinkit Sales Analysis (Excel)**  
-📌 *Conducted a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using various KPIs and visualizations..*  
-- ✅ **Analyzed total sales, average sales, item count, and customer ratings.**.  
-- ✅ **Created interactive dashboards in Excel & Power BI for trend insights.**.
-- ✅ **Designed donut, bar, stacked column, and line charts for KPI visualization.**.
-- ✅ **Evaluated sales impact based on fat content, item types, and outlet establishment year.**.
-- 🚀 [View Project](Blinkit_Dashboard.xlsx) | [Dashboard](Blinkit_Dashboard.png)
-
+🚀 Passionate about using data to drive impactful business decisions and simplify complexity through insights.
 
 ---
 
-## 🛠️ Technical Skills  
-✅ **SQL** (Joins, Window Functions, CTEs, Optimization)  
-✅ **Power BI & Tableau** (Dashboards, DAX, Data Visualization)  
-✅ **Excel** (Pivot Tables, VLOOKUP, Advanced Formulas)  
-✅ **Python** (Pandas, NumPy for Data Analysis)  
+### 💼 Work Experience
+
+**Data Analyst Intern – AI Variant, Pune**  
+📅 *March 2024 – March 2025*  
+
+**Project 1: Insurance Analytics**  
+- Built Power BI dashboards to track KPIs like cross-sell, new business & renewals  
+- Reduced data retrieval time by 50% and improved collection rates by 25%  
+
+**Project 2: Bank Loan Analysis**  
+- Analyzed 48K+ customer records to uncover default patterns  
+- Enhanced risk profiling efficiency by 30% using Power BI dashboards  
 
 ---
 
-## 📫 Let's Connect!  
-📩 **Email:** [patilchandradip1300@gmail.com]  
-🔗 **LinkedIn:** [www.linkedin.com/in/chandradippatil]
- 
+### 🧠 Skills & Tools
+
+- **Languages & Tools:** SQL, Python (pandas, NumPy), DAX, Power BI, Tableau, Excel (VLOOKUP, PivotTables), Power Query  
+- **Soft Skills:** Data Storytelling, Problem Solving, Team Collaboration, Stakeholder Communication  
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
 
 ---
 
-**📌 Feel free to explore my repositories and reach out for collaborations! 🚀**  
-](https://github.com/chandradippatil/chandradippatil)
+### 📊 Featured Projects
+
+#### 📌 Insurance Analytics Dashboard *(Power BI)*  
+- Interactive report to monitor policy-wise revenue & agent performance across regions  
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
+
+#### 📌 Bank Loan Analysis *(Power BI & Excel)*  
+- Loan approval trends, default risk segmentation, and payment behavior breakdown  
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
+
+#### 📌 Blinkit Sales Analysis *(Excel)*  
+- Sales forecasting, customer satisfaction, and inventory distribution  
+- Improved forecasting accuracy by 20% and reduced reporting time  
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Blinkit_Sales_Analysis)
+
+#### 📌 Tata Data Visualization Simulation *(Forage)*  
+- Completed simulation with TCS on visualizing business insights  
+- Prepared leadership questions and created actionable reports  
+
+#### 📌 Hospital Emergency Room Analysis *(Power BI)*  
+- Used DAX and SQL to monitor wait times and patient volume  
+- Reduced manual reporting by 40% and wait times by 30%  
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Hospital-Emergency-Room-Analysis)
+
+#### 📌 Mobile Sales Analysis *(Power BI)*  
+- Dashboard on sales, transactions, ratings, and YoY trends  
+- Increased sales by 20% with performance-focused insights  
+ 🔗 [Click here to view the dataset]( https://github.com/chandradippatil/Mobile-Sales-Analysis-)
+
+#### 📌 Human Resource Analysis *(Tableau)*  
+- Built HR analytics dashboards using Tableau, SQL, and Excel  
+- Enabled predictive analysis and reduced reporting effort by 10+ hours/month  
+ 🔗 [Click here to view the dataset](https://github.com/chandradippatil/Human-Resource-Analysis)
+
+---
+
+### 🏅 Certifications
+
+- ✅ Data Analytics Certification – ExcelR  
+- ✅ SQL Certification – HackerRank  
+- ✅ Power BI Certification – ExcelR  
+- ✅ Tata Data Visualization – Forage  
+- ✅ Insurance Analysis Internship – AI Variant  
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [patilchandradip1300@gmail.com](mailto:patilchandradip1300@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandradippatil)  
+- 💻 [GitHub](https://github.com/chandradippatil)  
+- 🌐 Portfolio (Coming Soon)
+
+---
+
+🔍 *Always open to freelance work, data gigs, and collaborative data projects!*
