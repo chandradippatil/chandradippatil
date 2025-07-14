@@ -41,25 +41,28 @@
 
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
 - Interactive report to monitor policy-wise revenue & agent performance across regions
-- Insurance Analysis Dashboard.png 
-- ([Insurance Analytics Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Insurance%20Analysis%20Dashboard.png))
+-  Designed Power BI dashboard on insurance data visualizing KPIs like cross-sell, new business, and renewal; resulted in a 25% improvement in collection rates and 
+reduced data retrieval time by 50%, improving stakeholder decision-making. 
+- [Insurance Analytics Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Insurance%20Analysis%20Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
 #### 📌 Bank Loan Analysis *(Tableau)*  
-- Loan approval trends, default risk segmentation, and payment behavior breakdown
+- Loan approval trends, default risk segmentation, and payment behavior breakdown.
+- Analyzed financial data of 80,000+ customer loan records from Excel datasets to uncover patterns and lending risks. 
+- [Bank Loan Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Bank%20Loan%20Analysis%20Dashboard.png)
 
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
 
 #### 📌 Blinkit Sales Analysis *(Excel)*  
 - Sales forecasting, customer satisfaction, and inventory distribution  
 - Improved forecasting accuracy by 20% and reduced reporting time
-- ([Blinkit Sales Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png))
+- [Blinkit Sales Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Blinkit_Sales_Analysis)
 
 #### 📌 Hospital Emergency Room Analysis *(Power BI)*  
 - Used DAX and SQL to monitor wait times and patient volume  
 - Reduced manual reporting by 40% and wait times by 30%
-- ([Hospital Er Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Hospital%20Er%20Dashboard.png))
+- [Hospital Er Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Hospital%20Er%20Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Hospital-Emergency-Room-Analysis)
 
 #### 📌 Mobile Sales Analysis *(Power BI)*  
