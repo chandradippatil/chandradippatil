@@ -5,7 +5,7 @@
 
 ### 📌 About Me
 
-🎓 Data Analyst with 1+ year of hands-on experience in:
+🎓 Data Analyst with 10+ Months of hands-on experience in:
 - SQL, Power BI, Tableau, Excel, and Python  
 - KPI Analysis, Dashboarding, Data Cleaning, and Business Intelligence
 
