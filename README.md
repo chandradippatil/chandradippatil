@@ -45,7 +45,7 @@
 
 #### 📌 Bank Loan Analysis *(Tableau)*  
 - Loan approval trends, default risk segmentation, and payment behavior breakdown
-- - ![Dashboard Screenshot]([Blinkit Sales Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png))
+- ([Blinkit Sales Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png))
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
 
 #### 📌 Blinkit Sales Analysis *(Excel)*  
