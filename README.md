@@ -64,7 +64,8 @@
 
 #### 📌 Mobile Sales Analysis *(Power BI)*  
 - Dashboard on sales, transactions, ratings, and YoY trends  
-- Increased sales by 20% with performance-focused insights  
+- Increased sales by 20% with performance-focused insights
+- [Mobile Sales Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Mobile%20Sales%20Analysis%20Dashboard.png)
  🔗 [Click here to view the dataset]( https://github.com/chandradippatil/Mobile-Sales-Analysis-)
 
 #### 📌 Human Resource Analysis *(Tableau)*  
