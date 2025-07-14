@@ -23,7 +23,7 @@
 - Reduced data retrieval time by 50% and improved collection rates by 25%  
 
 **Project 2: Bank Loan Analysis**  
-- Analyzed 48K+ customer records to uncover default patterns  
+- Analyzed 80K+ customer records to uncover default patterns  
 - Enhanced risk profiling efficiency by 30% using Power BI dashboards  
 
 ---
