@@ -41,6 +41,7 @@
 
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
 - Interactive report to monitor policy-wise revenue & agent performance across regions
+- ![Dashboard Screenshot](Blinkit Sales Analysis Dashboard.png)
 - ![Dashboard Screenshot](Insurance Analysis Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
