@@ -58,7 +58,8 @@
 
 #### 📌 Hospital Emergency Room Analysis *(Power BI)*  
 - Used DAX and SQL to monitor wait times and patient volume  
-- Reduced manual reporting by 40% and wait times by 30%  
+- Reduced manual reporting by 40% and wait times by 30%
+- ([Hospital Er Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Hospital%20Er%20Dashboard.png))
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Hospital-Emergency-Room-Analysis)
 
 #### 📌 Mobile Sales Analysis *(Power BI)*  
