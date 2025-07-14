@@ -44,7 +44,7 @@
 - ![Dashboard Screenshot](Insurance.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
-#### 📌 Bank Loan Analysis *(Power BI & Excel)*  
+#### 📌 Bank Loan Analysis *(Tableau)*  
 - Loan approval trends, default risk segmentation, and payment behavior breakdown  
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
 
