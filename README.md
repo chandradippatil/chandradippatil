@@ -70,7 +70,8 @@
 
 #### 📌 Human Resource Analysis *(Tableau)*  
 - Built HR analytics dashboards using Tableau, SQL, and Excel  
-- Enabled predictive analysis and reduced reporting effort by 10+ hours/month  
+- Enabled predictive analysis and reduced reporting effort by 10+ hours/month
+- [HR_Dashboard.png]( https://github.com/chandradippatil/chandradippatil/blob/main/HR_Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Human-Resource-Analysis)
 
 #### 📌 Tata Data Visualization Simulation *(Forage)*  
