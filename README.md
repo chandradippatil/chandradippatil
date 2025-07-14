@@ -42,7 +42,7 @@
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
 - Interactive report to monitor policy-wise revenue & agent performance across regions
 - Insurance Analysis Dashboard.png 
-- ([Insurance Analytics Dashboard.png]([(https://github.com/chandradippatil/chandradippatil/blob/main/Insurance%20Analysis%20Dashboard.png)))
+- ([Insurance Analytics Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Insurance%20Analysis%20Dashboard.png))
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
 #### 📌 Bank Loan Analysis *(Tableau)*  
