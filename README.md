@@ -41,13 +41,11 @@
 
 #### 📌 Insurance Analytics Dashboard *(Power BI)*  
 - Interactive report to monitor policy-wise revenue & agent performance across regions
-- ![Dashboard Screenshot](Blinkit Sales Analysis Dashboard.png)
-- ![Dashboard Screenshot](Insurance Analysis Dashboard.png)
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Insurance-analysis-Project/)
 
 #### 📌 Bank Loan Analysis *(Tableau)*  
 - Loan approval trends, default risk segmentation, and payment behavior breakdown
-- - ![Dashboard Screenshot](Blinkit Sales Analysis Dashboard.png)
+- - ![Dashboard Screenshot]([Blinkit Sales Analysis Dashboard.png](https://github.com/chandradippatil/chandradippatil/blob/main/Blinkit%20Sales%20Analysis%20Dashboard.png))
  🔗 [Click here to view the dataset](https://github.com/chandradippatil/Bank_Analysis)
 
 #### 📌 Blinkit Sales Analysis *(Excel)*  
